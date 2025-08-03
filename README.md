@@ -1,2 +1,2 @@
-# python-study-projects
-Math or DataSie study projects.
+# python-educational-projects
+Repository for educational projects
